@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IniOluwa/tweet-comm/issues"
   },
-  "homepage": "https://github.com/IniOluwa/tweet-comm#readme"
+  "homepage": "https://github.com/IniOluwa/tweet-comm#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  }
 }
