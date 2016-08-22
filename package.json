@@ -1,0 +1,19 @@
+{
+  "name": "tweet-comm",
+  "version": "1.0.0",
+  "description": "A twitter communication app.",
+  "main": "twitter-communicator.js",
+  "scripts": {
+    "test": "node twitter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IniOluwa/tweet-comm.git"
+  },
+  "author": "IniOluwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IniOluwa/tweet-comm/issues"
+  },
+  "homepage": "https://github.com/IniOluwa/tweet-comm#readme"
+}
